@@ -1,12 +1,16 @@
 # TDZhost 官网发布页
 
-#### TDZhost 官方地址【永久网址】（需挂代理）
-https://www.tdzhost.com
-#### TDZhost 官方地址 可免代理访问（备用1）
+#### TDZhost 跳转站【自动跳转最快网址访问】
+https://jump.tdzlab.com
+#### TDZhost 免代理可访问（备用1）
 https://go1.tdzhost.cloud
-#### TDZhost 官方地址 可免代理访问（备用2）
+#### TDZhost 免代理可访问（备用2）
 https://go2.tdzhost.cloud
-#### TDZhost 官方地址 可免代理访问（备用3）
+#### TDZhost 免代理可访问（备用3）
 https://panel.tdzhost.cloud
+#### TDZhost 永久网址（需挂代理访问）
+https://www.tdzhost.com
 
-禁止在微信访问，请点右上角…通过浏览器打开
+最新入口及网址，妥善保存，以防失联
+
+禁止在微信打开，请复制到自带浏览器访问
