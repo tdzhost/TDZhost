@@ -3,11 +3,11 @@
 #### TDZhost 跳转站【自动跳转最快网址访问】
 https://jump.tdzlab.com
 #### TDZhost 免代理可访问（备用1）
-https://alpha.tdzgo.com
+https://blog.tdzgo.com
 #### TDZhost 免代理可访问（备用2）
-https://boost.tdzgo.com
+https://info.tdzgo.com
 #### TDZhost 免代理可访问（备用3）
-https://galaxy.tdzgo.com
+https://news.tdzgo.com
 #### TDZhost 永久网址（需挂代理访问）
 https://www.tdzhost.com
 
