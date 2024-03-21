@@ -1,6 +1,6 @@
 # TDZhost 官网发布页
 
-#### TDZhost 跳转站【自动选择最快可访问网址】
+#### TDZhost 跳转站【自动跳转最快网址访问】
 https://jump.tdzlab.com
 
 #### TDZhost 永久网址（需挂代理访问）
